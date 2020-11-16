@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 583973045,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 123941343,
+          "is_bot": false,
+          "first_name": "Anas"
+        },
+        "chat": {
+          "id": 123941343,
+          "first_name": "Anas",
+          "type": "private"
+        },
+        "date": 1601792338,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 583973046,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 123941343,
+          "is_bot": false,
+          "first_name": "Anas",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 123941343,
+          "first_name": "Anas",
+          "type": "private"
+        },
+        "date": 1601793512,
+        "text": "ку"
+      }
+    }
+  ]
+}

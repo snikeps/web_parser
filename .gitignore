@@ -1,7 +1,4 @@
 /scratch.py
 
-*.csv
 *.cs
 *.ps1
-
-Yobit_bot/*
